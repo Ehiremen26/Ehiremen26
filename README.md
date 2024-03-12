@@ -2,7 +2,7 @@
 
 I'm a Software Engineer who wants to be a Full-Stack Developer
 
-##Skills: 
+## Skills: 
 
 💻 HTML / CSS
 
