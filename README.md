@@ -4,7 +4,7 @@ I'm a Software Engineer who wants to be a Full-Stack Developer
 
 ## Skills: 
 
-💻 HTML / CSS / JavaScript
+💻 HTML / CSS / JavaScript / C
 
 - 🌱 I’m currently learning JavaScript 
 - ⚡ Fun fact: I love languages and learning new stuffs 
